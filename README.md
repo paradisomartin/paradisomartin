@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @paradisomartin
-- 👀 I’m interested in web development with MERN stack and Vue
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on any JS, HTML, CSS or React beginner/intermediate project
+- I work at Ripio, Fullstack developer (Django-React)
 - 📫 How to reach me: martinparadiso024@gmail.com
 
 <!---
