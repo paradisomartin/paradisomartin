@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @paradisomartin
-- I am a fullstack developer (Django-React)
+- 🐍 I am a fullstack developer (Django-React)
+- ⛩️ LinkedIn: https://www.linkedin.com/in/paradisomartin/
 - 📫 How to reach me: paradisomartin24@gmail.com
 
 <!---
