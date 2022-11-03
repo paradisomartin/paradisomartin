@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paradisomartin
-- I work at Ripio, Fullstack developer (Django-React)
-- 📫 How to reach me: martinparadiso024@gmail.com
+- I am a fullstack developer (Django-React)
+- 📫 How to reach me: paradisomartin24@gmail.com
 
 <!---
 paradisomartin/paradisomartin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
